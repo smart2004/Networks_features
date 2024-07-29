@@ -1,0 +1,50 @@
+SFP port == standartized socket for modular tranceiver.
+To optical or electric tranceiver could be connected network cooper-based cables or fiber-optics cables, depending on type.
+It's usual met on network switches.
+
+SFP acronym decodes as 'Small Form-factor Pluggable'. SFP-port == one that standartized network modules could be connected. 
+They calls as SFP-tranceivers or GBIC mini-tranceivers. Transeivers have plugs for fast Gig Ethernet connections or fiber-optics. 
+SFP-module hastwo sides: 
+- One side known as transducer and has laser for transfer,
+- Another side == hand out side, has photodetector.
+
+SFP == per fact it trascripts like transceiver module, as it combined transducer and receiver in same device.
+
+SFP ports are usually adapted in network switches or network routers. 
+Dimensions and data of this module detected via form factor commitee in agreement with several MSA sources.
+Many equipment manufacturers support this standard. In compare to GBIC standard (Gigabyte interface converter) it has lesser dimensions. 
+This allows to use network devices with hiher prots density.
+
+SFP transducers or SFP modules accessible in various execution options. Module itself it's a small device, 
+this has connectors from one side, and from another side it has taerminals for fiber optics/twisted pair, covered by special cap.
+It may be used for fiber-optics connections with one-moded or multiple-moded fibers and varous wave lengths.
+LC-connectors are used for fiber-optic cables connections. Fiber optics connections fixed by fastener levers.
+Fiber optics. Also SFP modules available for connection to twisted pair (1000BASE-T). Some modules works with one fiber.
+For transmittion direction and receive these modules used various light wave length. Other works with  two fibers and equipped a couple of sockets.
+
+SFP ports advantages
+SFP ports in network devices such as network switch have plenty of advantages. 
+They provide flexibility, efficiency, and future safety, and may be use for easy/quick replace.
+Network devices are simple to switch on another transfer methods and network type. 
+Defective modules are inexpensive in replacement and do not require whole device overhaul or whole device replacement.
+
+Depending to GBIC, module SFP significantly lesser. It allows evolve network devices with high ports density. 
+With help of SFP modules there is inexpensive option for network device to wide various fiber optics spectrum.
+Within new standards or technology, SFP ports equipment appears as prospect. This may be easy for SFP new modules equipment and 
+supports current connection options.
+One more advantage is that network equipmnet is more flexible to use, as it integrates to any available network infrastructure 
+within SFP coreespondent modules. 
+
+
+SFP/SFP+/SFP28 differencies:
+Besides of SFP, the standard expansion also detects SFP+ and SFP28 ports. SFP+ (expanded connected small form-factor) supports more high data 
+transfer like 10 Gig/s and appears as SFP successor.
+SFP28 has same outline dimensions == SFP == SFP+, while provide upto 25 Gigabyte/sec data transfer.
+(with coding and mistakes correction upto 28 Gig/sec gross). Division to four SFP28 ports allow to implement connections capacity of 100 Gig.
+
+
+SFP ports application areas:
+SFP ports could be find in any various network devices and components. 
+Ethernet switches, routers, brandmauer and network interface cards equipped by various ports quantity. 
+In new devices the SFP+ and SFP28 are oftenly used.
+Anlan.ru
